@@ -1,3 +1,4 @@
+
 # Know your Fuel Price by location
 **This program gives fuel prices at any desired location. Just input latitude and longitude of the location and you will be able to know the nearest fuel outlet and the fuel price there.**
 
@@ -40,8 +41,14 @@ Clone this repository or download all files and place them in a particular folde
  1. **OutletCsvData.csv**:  This file has to contain latitude, longitude, Outlet Code of all outlets to be included for search. Indicative sample file is provided in the repository.
  2. **RSPData.csv**: This file has to contain data on Customer Code, Price of Petrol and Diesel. Indicative sample file is provided in the repository.
 
+# Advantages
+
+ - Easily lends to automation and monitoring tools as the response is text and data, rather than GUI
+ - Can be blended into Pricing & Invoicing systems
+ - Does not require Maps Paid API to locate and display nearest outlet and Rates
+
 # Pending Tasks & Future Scope
 
- - [ ] **Run this as a Website and provide Online Fuel Price Finding Service**
+ - [ ] **Run this as a Website and provide Fuel Price Finding Service**
  - [ ] Return results of up to 10 outlets in the increasing order of distance from entered location
  - [ ] Include clickable link to plot nearest outlet in the results
