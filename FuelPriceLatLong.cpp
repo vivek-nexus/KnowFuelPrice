@@ -52,7 +52,7 @@ int main()
     nearest_outlet=NearestOutlet(latlongs, lat_bounds, long_bounds, key);
     
     cout<<"\n";
-    cout<<"Nearest HP Oultet Customer Code: "<<fixed<<setprecision(0)<<nearest_outlet[2]<<" at ";
+    cout<<"Nearest Oultet Customer Code: "<<fixed<<setprecision(0)<<nearest_outlet[2]<<" at ";
     cout<<setprecision(6)<<nearest_outlet[0]<<", "<<nearest_outlet[1]<<" "<<"\n";
 
     vector<double> rsp;
