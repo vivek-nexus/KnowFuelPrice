@@ -1,5 +1,5 @@
 # Know your Fuel Price by location
-**This program gives fuel prices at any location. Just input latitude and longitude of the desired location and you will be able to know the nearest fuel outlet and the fuel price there.**
+**This program gives fuel prices at any desired location. Just input latitude and longitude of the location and you will be able to know the nearest fuel outlet and the fuel price there.**
 
 # Example
 
