@@ -35,6 +35,11 @@ Clone this repository or download all files and place them in a particular folde
     Petrol Price: 67.07
     Diesel price: 60.10
 
+# Additional Data Files
+
+ 1. **OutletCsvData.csv**:  This file has to contain latitude, longitude, Outlet Code of all outlets to be included for search. Indicative sample file is provided in the repository.
+ 2. **RSPData.csv**: This file has to contain data on Customer Code, Price of Petrol and Diesel. Indicative sample file is provided in the repository.
+
 # Pending Tasks & Future Scope
 
  - [ ] **Run this as a Website and provide Fuel Price Finding Service**
