@@ -16,7 +16,7 @@
    [How to Find Latitude & Longitude of a Place on Phone/Computer?](https://support.google.com/maps/answer/18539)
 
 # Use Cases
- - **Many organisations make payments to vendors with Diesel price as an important component in PO. Price at a particular location can be monitored on daily basis/weekly basis or any other logic, to dynamically include price changes in invoice.**
+ - **Many organisations make payments to vendors with Fuel price as an important component in PO. Price at a particular location can be monitored on daily basis/weekly basis or any other logic, to dynamically include price changes in invoice.**
  - Find nearest outlet with lowest price, without having to pay for Maps API.
  - Run this as a Web Service to provide customer convenience on locating outlet and pricing info.
 
