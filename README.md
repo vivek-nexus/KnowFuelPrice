@@ -37,6 +37,6 @@ Clone this repository or download all files and place them in a particular folde
 
 # Pending Tasks & Future Scope
 
- - [ ] Run this as a Website and provide Fuel Price Finding Service
+ - [ ] **Run this as a Website and provide Fuel Price Finding Service**
  - [ ] Return results of up to 10 outlets in the increasing order of distance from entered location
  - [ ] Include clickable link to plot nearest outlet in the results
