@@ -32,7 +32,7 @@ Clone this repository or download all files and place them in a particular folde
     Enter Latitude of location: 13.362281
     Enter Longitude of location: 74.875378
     
-    Nearest Outlet Customer Code: 11223344 at 13.421113, 74.834903
+    Nearest Outlet Customer Code: 11223344 at 13.390869, 74.872886
     Petrol Price: 67.07
     Diesel price: 60.10
 
